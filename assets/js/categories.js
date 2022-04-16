@@ -1,4 +1,4 @@
-const categories = { fiction: [{ url: `https://bishoyatif.github.io/programmerthoughts/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},],jekyll: [{ url: `https://bishoyatif.github.io/programmerthoughts/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},{ url: `https://bishoyatif.github.io/programmerthoughts/posts/the-purpose-of-education/`, date: `12 Dec 1948`, title: `The Purpose of Education`},], }
+const categories = { jekyll: [{ url: `https://bishoyatif.github.io/programmerthoughts/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},], }
 
 window.onload = function () {
   document.querySelectorAll(".category").forEach((category) => {
