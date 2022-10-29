@@ -1,1 +1,1 @@
-Sitemap: https://bishoyatif.github.io/programmerthoughts/sitemap.xml
+Sitemap: https://bishoyatif.com/sitemap.xml
