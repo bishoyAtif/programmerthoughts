@@ -1,4 +1,4 @@
-const categories = { jekyll: [{ url: `https://bishoyatif.com/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},], }
+const categories = { jekyll: [{ url: `https://bishoyatif.com/posts/communication-for-engineers/`, date: `29 Oct 2022`, title: `Communication Tips For Engineers`},{ url: `https://bishoyatif.com/posts/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84-%D9%83%D9%85%D8%A8%D8%B1%D9%85%D8%AC/`, date: `04 Nov 2021`, title: `نصائح للتواصل الأمثل كمبرمج`},{ url: `https://bishoyatif.com/posts/jekyll-markdown/`, date: `04 Nov 2021`, title: `Jekyll Markdown`},], }
 
 window.onload = function () {
   document.querySelectorAll(".category").forEach((category) => {
